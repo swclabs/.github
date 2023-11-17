@@ -1,1 +1,1 @@
-## Hello there, welcome to SwiftCart 👋
+## Hello there, welcome to Swiftcart 👋
