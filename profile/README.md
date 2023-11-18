@@ -1,1 +1,1 @@
-## Hello there, welcome to Glaxy👋
+## Hello there, welcome to Galxy👋
