@@ -1,1 +1,1 @@
-## Hello there, welcome to Swiftcart 👋
+## Hello there, welcome to Glaxy👋
